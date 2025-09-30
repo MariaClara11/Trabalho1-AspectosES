@@ -18,4 +18,4 @@ Neste projeto, a classe `ServicoFactory` é responsável por **instanciar dinami
 
 ## 📌 Diagrama de Classes
 
-![Diagrama UML](diagrama_de_classes.png)
+![Diagrama UML](DiagramaDeClasses.png)
